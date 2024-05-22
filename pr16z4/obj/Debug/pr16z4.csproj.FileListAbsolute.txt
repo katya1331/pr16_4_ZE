@@ -1,0 +1,11 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\bin\Debug\pr16z4.exe.config
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\bin\Debug\pr16z4.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\bin\Debug\pr16z4.pdb
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.exe
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr16z4\obj\Debug\pr16z4.pdb
